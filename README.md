@@ -14,6 +14,8 @@ ChatNest is a feature-rich chatting application built with Flutter and Firebase.
 - **Local Notifications**: Get notified about new messages even when the app is in the background.
 - **CRUD Operations**: Create, read, update, and delete chat messages.
 - **Mark as Read**: Users can mark messages as read, providing a clear understanding of conversation status.
+- **Group Chats**: Create group chats to communicate with multiple users simultaneously.
+- **User Profiles**: View and edit user profiles with profile pictures and status messages.
 
 ## 📦 Installation
 
@@ -32,6 +34,12 @@ ChatNest is a feature-rich chatting application built with Flutter and Firebase.
 - **Sign Up / Log In**: Users can create an account or log in to access their chats.
 - **Chat Interface**: Users can view their chats, send messages, and receive notifications.
 - **Mark Messages as Read**: Users can easily manage their message status.
+
+## 🛠️ Technologies Used
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop.
+- **Firebase**: A platform for developing mobile and web applications, offering services like authentication and real-time databases.
+- **Dart**: The programming language used to build Flutter apps. 
+
 ## 🎨 Screenshots
 <div align = "center">
  
