@@ -1,6 +1,38 @@
 # chatting_application
 
 
+
+# 📱 ChatNest - Chatting Application
+
+
+ChatNest is a feature-rich chatting application built with Flutter and Firebase. It offers real-time messaging, user authentication, local notifications, and more, providing a seamless chat experience for users.
+
+## 🚀 Features
+
+- **User Authentication**: Secure sign-up and login using Firebase Authentication.
+- **Real-Time Messaging**: Send and receive messages instantly with Firebase Firestore.
+- **Local Notifications**: Get notified about new messages even when the app is in the background.
+- **CRUD Operations**: Create, read, update, and delete chat messages.
+- **Mark as Read**: Users can mark messages as read, providing a clear understanding of conversation status.
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/chatnest.git
+
+   cd chatnest
+ ```
+  flutter pub get
+```
+
+
+
+## 📱 Usage
+- **Sign Up / Log In**: Users can create an account or log in to access their chats.
+- **Chat Interface**: Users can view their chats, send messages, and receive notifications.
+- **Mark Messages as Read**: Users can easily manage their message status.
+## 🎨 Screenshots
 <div align = "center">
  
     
@@ -55,5 +87,8 @@
 
 
 </div>
+
+# 🎥 Demo Video
+
 
 https://github.com/user-attachments/assets/eb09d1f3-bd6b-4508-bd9a-fc136bf3c270
