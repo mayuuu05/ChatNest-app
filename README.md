@@ -1,6 +1,5 @@
 # chatting_application
 
-# chatting_application
 
 <div align = "center">
  
@@ -11,22 +10,32 @@
      <img src = "https://github.com/user-attachments/assets/8002a10e-ea9a-4e1c-8fb5-1176bd77670a"  height=35% width=22%  />
   
    <img src = "https://github.com/user-attachments/assets/ba4e8e12-ca54-419e-a569-802bc3bf752b"  height=35% width=22%  />
-    <img src = "https://github.com/user-attachments/assets/b011fdcf-5f54-494d-b501-f73efc1c2a62"  height=35% width=22%  />
+
      
   
   
    <img src = "https://github.com/user-attachments/assets/a3753fc6-09a1-4527-995c-f4d16d8f888f"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/7daf8080-1803-4f8f-b66f-5d1fe515ae0c"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/44b16f0b-66b7-4363-9972-ec8d2cb038d2"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/6665688f-7e67-47cc-937c-3f4dd005de56"  height=35% width=22%  />
-    <img src = "https://github.com/user-attachments/assets/7daf8080-1803-4f8f-b66f-5d1fe515ae0c"  height=35% width=22%  />
+   
+    
    <img src = "https://github.com/user-attachments/assets/d6c5e972-5bf9-4d14-ba04-e25afba925a1"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/6665688f-7e67-47cc-937c-3f4dd005de56"  height=35% width=22%  />
    
    <img src = "https://github.com/user-attachments/assets/7f896b81-af0b-476c-a0ae-7278b8b7b8de"  height=35% width=22%  />
-    <img src = "https://github.com/user-attachments/assets/a20958b3-4820-44f7-a3eb-976ea9dddd77"  height=35% width=22%  />
     <img src = "https://github.com/user-attachments/assets/6e41e523-6bcf-43ff-ba92-b4384912e23b"  height=35% width=22%  />
     <img src = "https://github.com/user-attachments/assets/dc6ac8ad-528b-44fc-bbdd-82dfe42c05dc"  height=35% width=22%  />
+      <img src = "https://github.com/user-attachments/assets/a20958b3-4820-44f7-a3eb-976ea9dddd77"  height=35% width=22%  />
 
 
+
+
+
+
+
+
+  <video height="450" src="https://github.com/user-attachments/assets/2ea146b7-d62e-444e-abe8-b19e80fe25ce" />
+  
 
 
 
@@ -46,3 +55,5 @@
 
 
 </div>
+
+https://github.com/user-attachments/assets/eb09d1f3-bd6b-4508-bd9a-fc136bf3c270
