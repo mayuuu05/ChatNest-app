@@ -1,6 +1,4 @@
-# Chatting_application
-
-
+# Chatting_app
 
 # 📱 ChatNest - Chatting Application
 
